@@ -22,6 +22,3 @@ const titleCased = (input) => {
 })
 }
 
-
-}
-
