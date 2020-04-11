@@ -18,5 +18,6 @@ const titleCased = (input) => {
   let capitalized = splitted.map(split => split.charAt(0).toUpperCase + split.slice(1));
   let result = capitalized.join(' ')
   return result;
-});
+})
+}
 
